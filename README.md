@@ -41,7 +41,7 @@
 ## 📈 GitHub Stats
 
 ## 📊 Statistik Kontribusi GitHub
- - Data Di Akun Github Lama saya (yang sudah terhapus akunnya):
+ - Data from my previous GitHub account (the account has been deleted):
 > ⏱ Waketime (coding hours): `3,800+ hours` (from wakatime or local tracking)
 
 | Statistics | Score |
@@ -53,7 +53,7 @@
 | 🐛 **Issues Opened** | 214 |
 | 📅 **Contribution of the Year** | 140+ |
 
- - Data Di Akun Github Baru saya (saat ini/Sekarang):
+ - Data from my current GitHub account (active now):
 
 ![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=tokyonight)
