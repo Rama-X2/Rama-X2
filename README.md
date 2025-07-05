@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 
-## 📊 Statistik Kontribusi GitHub
+## 📊 GitHub Contribution Statistics
  - Data from my previous GitHub account (the account has been deleted):
 > ⏱ Waketime (coding hours): `3,800+ hours` (from wakatime or local tracking)
 
