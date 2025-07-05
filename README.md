@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Rama! 👋
 
-<!--
-**Rama-X2/Rama-X2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I'm a Frontend Developer & Open Source Enthusiast  
+🎮 Love working on game mods and embedded stuff  
+📍 Based in Indonesia
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Renka's GitHub stats](https://github-readme-stats.vercel.app/api?username=renkaarmy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renkaarmy&layout=compact&theme=radical)
+
+## 📫 Where to find me
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/...)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/...)
