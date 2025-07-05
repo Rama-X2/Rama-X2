@@ -43,6 +43,7 @@
 ## 📊 Statistik Kontribusi GitHub
 
 > ⏱ Waketime (coding hours): `3,800+ hours` (from wakatime or local tracking)
+
 | Statistics | Score |
 |----------|-------|
 | ⭐ **Total Stars** | 12.3k |
