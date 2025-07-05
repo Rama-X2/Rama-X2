@@ -54,6 +54,7 @@
 | 📅 **Contribution of the Year** | 140+ |
 
  - Data Di Akun Github Baru saya (saat ini/Sekarang):
+ - 
 ![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=tokyonight)
 
