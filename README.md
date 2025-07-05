@@ -51,17 +51,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@example.com)  
 [![Website](https://img.shields.io/badge/-My%20Site-000?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)  
 
----
-
-
-
-
-
-
-
-
-
-
 --------------------------------------------------------
 
 ## 🧰 Tech Stack
