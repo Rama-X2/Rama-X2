@@ -42,16 +42,16 @@
 
 ## 📊 Statistik Kontribusi GitHub
 
-| Statistik | Nilai |
+| Statistics | Score |
 |----------|-------|
 | ⭐ **Total Stars** | 12.3k |
 | 🔁 **Total Commits** | 21.4k |
 | 🛠 **Pull Requests** | 360 |
 | ✅ **PR Reviewed** | 82 |
 | 🐛 **Issues Opened** | 214 |
-| 📅 **Kontribusi Tahun Ini** | 140+ |
+| 📅 **Contribution of the Year** | 140+ |
 
-> ⏱ Waketime (coding hours): `3,800+ jam` (dari Wakatime atau lokal tracking)
+> ⏱ Waketime (coding hours): `3,800+ hours` (from wakatime or local tracking)
 
 ![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=tokyonight)
