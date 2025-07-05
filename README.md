@@ -10,8 +10,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 
 ## 📊 GitHub Stats
-![Renka's GitHub stats](https://github-readme-stats.vercel.app/api?username=renkaarmy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renkaarmy&layout=compact&theme=radical)
+![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=radical)
 
 ## 📫 Where to find me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/...)
