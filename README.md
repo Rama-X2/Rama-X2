@@ -39,7 +39,6 @@
 ---
 
 ## 📈 GitHub Stats
----
 
 ## 📊 Statistik Kontribusi GitHub
 
@@ -53,8 +52,6 @@
 | 📅 **Kontribusi Tahun Ini** | 140+ |
 
 > ⏱ Waketime (coding hours): `3,800+ jam` (dari Wakatime atau lokal tracking)
-
----
 
 ![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=tokyonight)
