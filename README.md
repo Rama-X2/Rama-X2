@@ -50,19 +50,8 @@
 [![Telegram](https://img.shields.io/badge/-@renkadev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ramadev)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@example.com)  
 [![Website](https://img.shields.io/badge/-My%20Site-000?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)  
-
+[![wakatime](https://wakatime.com/badge/user/your-waka-id.svg)](https://wakatime.com/@your-waka-id)
 --------------------------------------------------------
 
-## 🧰 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
-
-## 📊 GitHub Stats
-![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=radical)
 
 
-
-
-[![wakatime](https://wakatime.com/badge/user/your-waka-id.svg)](https://wakatime.com/@your-waka-id)
