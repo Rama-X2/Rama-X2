@@ -64,7 +64,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-xd)
 [![Telegram](https://img.shields.io/badge/-@ramadev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ramadev)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@example.com)  
-[![Website](https://img.shields.io/badge/-My%20Site-000?style=flat-square&logo=vercel&logoColor=white)](rama-store.vercel.app)  
+[![Website](https://img.shields.io/badge/-My%20Site-000?style=flat-square&logo=vercel&logoColor=white)](https://rama-store.vercel.app)  
 
 --------------------------------------------------------
 
