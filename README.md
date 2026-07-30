@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://rama-x2.my.id/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-6366f1?style=flat&logo=react&logoColor=white&labelColor=6366f1" alt="Portfolio Website" /></a>
+    <a href="https://rama-x2.my.id/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-1e293b?style=flat&logo=react&logoColor=61DAFB&labelColor=1e293b" alt="Portfolio Website" /></a>
   </p>
 
 </div>
@@ -57,5 +57,5 @@
 ## Connect With Me
 
 <p align="left">
-  <a href="https://rama-x2.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-rama--x2.my.id-6366F1?style=flat&logo=vercel&logoColor=white&labelColor=6366F1" alt="Website" /></a>&nbsp;<a href="https://t.me/Rama_X2" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Rama__X2-2CA5E0?style=flat&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" /></a>&nbsp;<a href="https://www.linkedin.com/in/rama-xd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rama--xd-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://rama-x2.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-rama--x2.my.id-1e293b?style=flat&logo=vercel&logoColor=white&labelColor=1e293b" alt="Website" /></a>&nbsp;<a href="https://t.me/Rama_X2" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Rama__X2-1e293b?style=flat&logo=telegram&logoColor=2CA5E0&labelColor=1e293b" alt="Telegram" /></a>&nbsp;<a href="https://www.linkedin.com/in/rama-xd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rama--xd-1e293b?style=flat&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" /></a>
 </p>
