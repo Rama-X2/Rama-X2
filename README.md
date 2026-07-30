@@ -17,43 +17,27 @@
 
 ---
 
-## 🛠️ My Toolbox
+## 🛠️ Tech Stack & Tools
 
-#### Languages & Core Web
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Languages" />
-</a>
-
-#### Frameworks & Runtimes
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express" alt="Frameworks & Runtimes" />
-</a>
-
-#### Database & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,docker,git,bash" alt="Database & DevOps" />
-</a>
-
-#### Mobile & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=android,figma,vscode,github" alt="Mobile & Tools" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,php,nodejs,express,mysql,mongodb,linux,docker,git,bash,android,figma,vscode,github" alt="Tech Stack Icons" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Magisk_Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
+  <img src="https://img.shields.io/badge/AOSP_ROM-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="AOSP" />
+  <img src="https://img.shields.io/badge/Custom_Kernel-000000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=101010" alt="Kernel" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010" alt="UI/UX" />
+</p>
 
 ---
 
-## ⚡ What I'm Into
+## ⚡ What I Do
 
-- ⚡ **Web Development** — Building high-performance web applications with Next.js, React, PHP, & Node.js.
-- ⚡ **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels.
-- ⚡ **Server & System Tuning** — Managing Linux servers, Docker containers, & low-level performance optimization.
-
----
-
-## 🚀 Currently Working On
-
-- ⚡ **Android Custom Kernels & ROMs** — Performance optimization for `Poco M3` & `Redmi 4A`.
-- ⚡ **Magisk Modules & System Hacks** — Creating system tweaks & thermal modules.
-- ⚡ **Web Solutions** — Developing modern full-stack web applications.
+- 🌐 **Web Development** — Building high-performance web applications with Next.js, React, PHP, & Node.js.
+- ⚡ **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels (`Poco M3` & `Redmi 4A`).
+- 🛠️ **Server & System Tuning** — Managing Linux servers, Docker containers, & low-level performance optimization.
 
 ---
 
