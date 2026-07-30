@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="./im-a-programmer%20(Rama-X2).png" alt="I'm a programmer (Rama-X2)" width="420" />
+
   <h1>👋 Hi, I'm Ade Ramadhani Putra (Rama-X2)</h1>
 
   <p>
