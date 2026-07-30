@@ -22,9 +22,7 @@
 ## Tech Stack & Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,php,nodejs,express,mysql,mongodb,linux,docker,git,bash,android,figma,vscode,github" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,php,nodejs,express,mysql,mongodb,linux,docker,git,bash,android,figma,vscode,github" alt="Tech Stack Icons" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Magisk_Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
@@ -38,7 +36,7 @@
 ## What I Do
 
 - **Web Development** — Building high-performance web applications with Next.js, React, PHP, & Node.js.
-- **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels (`Poco M3` & `Redmi 4A`).
+- **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels.
 - **Server & System Tuning** — Managing Linux servers, Docker containers, & low-level performance optimization.
 
 ---
