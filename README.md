@@ -11,7 +11,7 @@
 
   <p>
     <a href="https://rama-x2.my.id/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-6366f1?style=flat-square&logo=react&logoColor=white&labelColor=101010" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-6366f1?style=flat&logo=react&logoColor=white" alt="Portfolio Website" />
     </a>
   </p>
 
@@ -25,10 +25,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,py,nextjs,react,vue,svelte,nodejs,express,mysql,mongodb,sqlite,linux,docker,git,github,vercel,kotlin,androidstudio,vscode,postman,tailwind&perline=14" alt="Tech Stack Icons" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Magisk-00AF9C?style=flat-square&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
-  <img src="https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=101010" alt="AOSP" />
-  <img src="https://img.shields.io/badge/Kernel-FCC624?style=flat-square&logo=linux&logoColor=white&labelColor=101010" alt="Kernel" />
-  <img src="https://img.shields.io/badge/UI/UX-6366F1?style=flat-square&logo=adobexd&logoColor=white&labelColor=101010" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Magisk-00AF9C?style=flat&logo=android&logoColor=white" alt="Magisk" />
+  <img src="https://img.shields.io/badge/AOSP-3DDC84?style=flat&logo=android&logoColor=white" alt="AOSP" />
+  <img src="https://img.shields.io/badge/Kernel-FCC624?style=flat&logo=linux&logoColor=black" alt="Kernel" />
+  <img src="https://img.shields.io/badge/UI/UX-6366F1?style=flat&logo=adobexd&logoColor=white" alt="UI/UX" />
 </p>
 
 ---
@@ -61,12 +61,12 @@
 
 <p align="left">
   <a href="https://rama-x2.my.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-rama--x2.my.id-6366f1?style=flat-square&logo=vercel&logoColor=white&labelColor=101010" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-rama--x2.my.id-6366f1?style=flat&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://t.me/Rama_X2" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Rama__X2-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=101010" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Rama__X2-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/rama-xd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rama--xd-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-rama--xd-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
