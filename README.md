@@ -22,7 +22,7 @@
 ## Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,php,nodejs,express,mysql,mongodb,linux,docker,git,bash,android,figma,vscode,github" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,py,bash,nextjs,react,nodejs,express,mysql,mongodb,linux,docker,git,github,vercel,android,androidstudio,figma,vscode,postman&perline=13" alt="Tech Stack Icons" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Magisk_Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
