@@ -11,7 +11,7 @@
 
   <p>
     <a href="https://rama-x2.my.id/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-1e293b?style=flat&logo=react&logoColor=61DAFB" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-1e293b?style=flat&logo=react&logoColor=61DAFB&labelColor=1e293b" alt="Portfolio Website" />
     </a>
   </p>
 
@@ -25,9 +25,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,py,nextjs,react,vue,svelte,nodejs,express,mysql,mongodb,ubuntu,linux,docker,git,github,vercel,kotlin,androidstudio,vscode,postman,tailwind&perline=14" alt="Tech Stack Icons" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Magisk-1e293b?style=flat&logo=android&logoColor=00AF9C" alt="Magisk" />
-  <img src="https://img.shields.io/badge/AOSP-1e293b?style=flat&logo=android&logoColor=3DDC84" alt="AOSP" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-1e293b?style=flat&logo=figma&logoColor=FF69B4" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Magisk-1e293b?style=flat&logo=android&logoColor=00AF9C&labelColor=1e293b" alt="Magisk" />
+  <img src="https://img.shields.io/badge/AOSP-1e293b?style=flat&logo=android&logoColor=3DDC84&labelColor=1e293b" alt="AOSP" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-1e293b?style=flat&logo=figma&logoColor=FF69B4&labelColor=1e293b" alt="UI/UX Design" />
 </p>
 
 ---
@@ -60,12 +60,12 @@
 
 <p align="left">
   <a href="https://rama-x2.my.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-rama--x2.my.id-1e293b?style=flat&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-rama--x2.my.id-1e293b?style=flat&logo=vercel&logoColor=white&labelColor=1e293b" alt="Website" />
   </a>
   <a href="https://t.me/Rama_X2" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Rama__X2-1e293b?style=flat&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Rama__X2-1e293b?style=flat&logo=telegram&logoColor=2CA5E0&labelColor=1e293b" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/rama-xd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rama--xd-1e293b?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-rama--xd-1e293b?style=flat&logo=linkedin&logoColor=0077B5&labelColor=1e293b" alt="LinkedIn" />
   </a>
 </p>
