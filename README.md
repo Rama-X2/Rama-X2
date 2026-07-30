@@ -1,76 +1,132 @@
+<!-- HEADER BANNER ANIMATION -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:d946ef&height=220&section=header&text=Ade%20Ramadhani%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rama-X2%20%7C%20Full%20Stack%20Developer%20%26%20UI/UX%20Designer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+</div>
 
-  <h1>👋 Hi, I'm Ade Ramadhani Putra (Rama-X2)</h1>
+<!-- TYPING SUBTITLE ANIMATION -->
+<div align="center">
+  <a href="https://rama-x2.my.id/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%90%8B+Halo!+Saya+Ade+Ramadhani+Putra;%F0%9F%8D%90+Full+Stack+Developer+%26+UI%2FUX+Designer;%E2%9A%A1+Android+Modder+(Kernel%2C+ROM%2C+%26+Magisk);%E2%98%81%EF%B8%8F+Server+Administrator+%26+Linux+Dev;%F0%9F%9A%80+Pengembang+Aplikasi+Performa+Tinggi" alt="Typing SVG" />
+  </a>
+</div>
 
-  <p>
-    <strong>💻 Full Stack Developer &nbsp;|&nbsp; 🎨 UI/UX Designer &nbsp;|&nbsp; ⚡ Android Modder &nbsp;|&nbsp; ⚙️ Kernel & ROM Dev &nbsp;|&nbsp; ☁️ Server Builder</strong>
-  </p>
+<br/>
 
-  <p>
-    📍 Based in Indonesia (West Java) &nbsp;•&nbsp; 🧠 Self-taught & Passionate about Open Source
-  </p>
-
-  <!-- Container Box untuk Tombol Portofolio Utama -->
-  <table>
+<!-- HERO PORTFOLIO BUTTON CARD -->
+<div align="center">
+  <table align="center">
     <tr>
-      <td align="center" style="padding: 12px 24px; background-color: #0d1117; border-radius: 8px;">
+      <td align="center" style="padding: 14px 28px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border: 1px solid #30363d; border-radius: 12px;">
         <a href="https://rama-x2.my.id/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_KUNJUNGI_WEBSITE_PORTOFOLIO-rama--x2.my.id-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
         </a>
       </td>
     </tr>
   </table>
+</div>
 
+<br/>
+
+---
+
+## ⚡ About Me & Specialty
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Siapa Saya?</h3>
+      <p>
+        Saya adalah seorang <b>Full Stack Developer</b> dan <b>UI/UX Designer</b> asal Indonesia (Jawa Barat) yang passionate dalam membangun aplikasi web modern, mengoptimalkan performa server, dan melakukan modifikasi low-level pada sistem Android.
+      </p>
+      <ul>
+        <li>🌐 <b>Web Development:</b> Menguasai <b>Next.js</b>, <b>React</b>, <b>PHP</b>, <b>Node.js</b>, dan <b>Express.js</b>.</li>
+        <li>⚡ <b>Android & Kernel Modding:</b> Spesialis pengembang <b>Magisk Modules</b>, custom kernel, dan ROM (fokus pada optimasi performa <code>Poco M3</code> & <code>Redmi 4A</code>).</li>
+        <li>🛠️ <b>Server & Cloud:</b> Pengelolaan Linux Server, otomatisasi Bash, Docker, dan deployment berbasis performa tinggi.</li>
+        <li>🎨 <b>UI/UX Design:</b> Menciptakan tampilan antarmuka yang bersih, responsif, dan memberikan pengalaman pengguna terbaik.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <h3>📍 Info Ringkas</h3>
+      <p><b>Lokasi:</b> Sukabumi, Jawa Barat, Indonesia 🇮🇩</p>
+      <p><b>Status:</b> 🧠 Self-taught & Open Source Enthusiast</p>
+      <p><b>Zona Waktu:</b> Asia/Jakarta (UTC +07:00)</p>
+      <a href="https://t.me/Rama_X2" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@Rama__X2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rama-X2&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧰 Tech Stack & Tools
 
-Seorang **Full Stack Developer** & **UI/UX Designer** yang aktif mengembangkan berbagai solusi digital modern — mulai dari website responsif, aplikasi web interaktif, hingga sistem berbasis performa tinggi. Berpengalaman dalam web development, server management, optimasi sistem low-level, serta modifikasi Android (kernel, ROM, & Magisk modules).
-
-* 🌐 **Web Development**: Spesialis membangun web app modern menggunakan **Next.js**, **React**, **PHP**, **Express.js**, & **Node.js**.
-* ⚡ **Android & System Modding**: Pengembang **Magisk Modules** (overclocking, thermal tweaks, system hacks) serta pengelola custom Android kernel & ROM (`Poco M3` & `Redmi 4A`).
-* 🛠️ **System & Low-Level**: Suka mengulik performa sistem, Linux servers, cloud deployments, dan otomasi script.
-* 🎨 **UI/UX Design**: Mengutamakan tampilan intuitif, modern, dan pengalaman pengguna yang nyaman.
-
----
-
-## 🧰 Tech Stack & Skills
-
-### 💻 Web Development
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-
-### 🗄️ Database & Infrastructure / Server
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-### 📱 Mobile & System Modding
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white" alt="Magisk" />
-  <img src="https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="AOSP" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">💻 Frontend & Web</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚙️ Backend & Database</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🔧 System, Mobile & DevOps</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/><br/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics & Activity
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rama-X2&theme=tokyonight&hide_border=true" alt="Streak Stats" width="95%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ### 📊 Previous Account Legacy Data
 > ⏱ **Waketime (coding hours)**: `3,800+ hours` (wakatime / local tracking)
@@ -84,36 +140,33 @@ Seorang **Full Stack Developer** & **UI/UX Designer** yang aktif mengembangkan b
 | 🐛 **Issues Opened** | 214 |
 | 📅 **Contribution of the Year** | 140+ |
 
-<br/>
-
-### ⚡ Current Active Account Stats
-<div align="center">
-  <a href="https://github.com/Rama-X2">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&theme=dark&locale=en" alt="Rama's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&theme=dark&locale=en" alt="Top Languages" />
-  </a>
-</div>
-
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect & Links
 
-<!-- Wadah Tabel Kontak -->
-<table align="center">
-  <tr>
-    <th align="center">Platform</th>
-    <th align="center">Link / Identifier</th>
-  </tr>
-  <tr>
-    <td align="left">🌐 <strong>Website Portofolio</strong></td>
-    <td align="left"><a href="https://rama-x2.my.id/" target="_blank">https://rama-x2.my.id/</a></td>
-  </tr>
-  <tr>
-    <td align="left">✈️ <strong>Telegram</strong></td>
-    <td align="left"><a href="https://t.me/Rama_X2" target="_blank">@Rama_X2</a></td>
-  </tr>
-  <tr>
-    <td align="left">💼 <strong>LinkedIn</strong></td>
-    <td align="left"><a href="https://www.linkedin.com/in/rama-xd" target="_blank">rama-xd</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <th align="center">Platform</th>
+      <th align="center">Direct Access</th>
+    </tr>
+    <tr>
+      <td align="left">🌐 <b>Website Portofolio</b></td>
+      <td align="left"><a href="https://rama-x2.my.id/" target="_blank"><code>https://rama-x2.my.id/</code></a></td>
+    </tr>
+    <tr>
+      <td align="left">✈️ <b>Telegram</b></td>
+      <td align="left"><a href="https://t.me/Rama_X2" target="_blank"><code>@Rama_X2</code></a></td>
+    </tr>
+    <tr>
+      <td align="left">💼 <b>LinkedIn</b></td>
+      <td align="left"><a href="https://www.linkedin.com/in/rama-xd" target="_blank"><code>rama-xd</code></a></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
