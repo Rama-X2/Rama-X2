@@ -22,7 +22,7 @@
 ## Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,py,nextjs,react,vue,svelte,nodejs,express,mysql,mongodb,linux,docker,git,github,vercel,android,androidstudio,figma,vscode,postman,tailwind&perline=14" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,py,nextjs,react,vue,svelte,nodejs,express,mysql,mongodb,sqlite,linux,docker,git,github,vercel,kotlin,androidstudio,vscode,postman,tailwind&perline=14" alt="Tech Stack Icons" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Magisk_Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
@@ -35,9 +35,9 @@
 
 ## What I Do
 
-- **Web Development** — Building high-performance web applications with Next.js, React, Vue, Svelte, PHP, & Node.js.
-- **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels.
-- **Server & System Tuning** — Managing Linux servers, Docker containers, & low-level performance optimization.
+- **Web Development**: Building high-performance web applications with Next.js, React, Vue, Svelte, PHP, & Node.js.
+- **Android Modding**: Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels.
+- **Server & System Tuning**: Managing Linux servers, Docker containers, & low-level performance optimization.
 
 ---
 
