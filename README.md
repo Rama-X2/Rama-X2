@@ -11,7 +11,7 @@
 
   <p>
     <a href="https://rama-x2.my.id/" target="_blank">
-      <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-rama--x2.my.id-6366f1?style=flat&logo=react&logoColor=white&labelColor=101010" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/Portfolio-rama--x2.my.id-6366f1?style=flat&logo=react&logoColor=white&labelColor=101010" alt="Portfolio Website" />
     </a>
   </p>
 
@@ -25,10 +25,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,py,nextjs,react,vue,svelte,nodejs,express,mysql,mongodb,sqlite,linux,docker,git,github,vercel,kotlin,androidstudio,vscode,postman,tailwind&perline=14" alt="Tech Stack Icons" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Magisk_Modules-00AF9C?style=flat&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
-  <img src="https://img.shields.io/badge/AOSP_ROM-3DDC84?style=flat&logo=android&logoColor=white&labelColor=101010" alt="AOSP" />
-  <img src="https://img.shields.io/badge/Custom_Kernel-FCC624?style=flat&logo=linux&logoColor=black&labelColor=101010" alt="Kernel" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-FF69B4?style=flat&logo=figma&logoColor=white&labelColor=101010" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Magisk-00AF9C?style=flat&logo=android&logoColor=white&labelColor=101010" alt="Magisk" />
+  <img src="https://img.shields.io/badge/AOSP-3DDC84?style=flat&logo=android&logoColor=white&labelColor=101010" alt="AOSP" />
+  <img src="https://img.shields.io/badge/Kernel-FCC624?style=flat&logo=linux&logoColor=white&labelColor=101010" alt="Kernel" />
+  <img src="https://img.shields.io/badge/UI/UX-6366F1?style=flat&logo=adobexd&logoColor=white&labelColor=101010" alt="UI/UX" />
 </p>
 
 ---
