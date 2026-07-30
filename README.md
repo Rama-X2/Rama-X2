@@ -2,16 +2,16 @@
 
   <img src="./im-a-programmer%20(Rama-X2).png" alt="I'm a programmer (Rama-X2)" width="420" />
 
-  <h1>👋 Hi, I'm Ade Ramadhani Putra (Rama-X2)</h1>
+  <h1>Hi, I'm Ade Ramadhani Putra (Rama-X2)</h1>
 
   <p>
     <b>Full Stack Developer</b> | <b>UI/UX Designer</b> | <b>Android Modder</b> | <b>Kernel & ROM Dev</b> | <b>Server Builder</b><br/>
-    📍 Based in Indonesia (West Java) &nbsp;•&nbsp; 🧠 Self-taught & Passionate about Open Source
+    Based in Indonesia (West Java) &nbsp;•&nbsp; Self-taught & Passionate about Open Source
   </p>
 
   <p>
     <a href="https://rama-x2.my.id/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-rama--x2.my.id-6366f1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-rama--x2.my.id-6366f1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" alt="Portfolio Website" />
     </a>
   </p>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,31 +35,31 @@
 
 ---
 
-## ⚡ What I Do
+## What I Do
 
-- 🌐 **Web Development** — Building high-performance web applications with Next.js, React, PHP, & Node.js.
-- ⚡ **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels (`Poco M3` & `Redmi 4A`).
-- 🛠️ **Server & System Tuning** — Managing Linux servers, Docker containers, & low-level performance optimization.
+- **Web Development** — Building high-performance web applications with Next.js, React, PHP, & Node.js.
+- **Android Modding** — Developing Magisk Modules (overclocking, thermal tweaks, system hacks) & custom ROM/kernels (`Poco M3` & `Redmi 4A`).
+- **Server & System Tuning** — Managing Linux servers, Docker containers, & low-level performance optimization.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-### 📊 Account Legacy & Contribution Data
-> ⏱ **Waketime (coding hours)**: `3,800+ hours` (wakatime / local tracking)
+### Account Legacy & Contribution Data
+> Waketime (coding hours): `3,800+ hours` (wakatime / local tracking)
 
 | Statistics | Score |
-| :--- | :--- |
-| ⭐ **Total Stars** | 12.3k |
-| 🔁 **Total Commits** | 21.4k |
-| 🛠 **Pull Requests** | 360 |
-| ✅ **PR Reviewed** | 82 |
-| 🐛 **Issues Opened** | 214 |
-| 📅 **Contribution of the Year** | 140+ |
+| :--- | :---: |
+| Total Stars | 12.3k |
+| Total Commits | 21.4k |
+| Pull Requests | 360 |
+| PR Reviewed | 82 |
+| Issues Opened | 214 |
+| Contribution of the Year | 140+ |
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://rama-x2.my.id/" target="_blank">
