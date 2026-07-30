@@ -45,49 +45,14 @@
 ### Account Legacy & Contribution Data
 > Waketime (coding hours): `3,800+ hours` (wakatime / local tracking)
 
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <table>
-        <thead>
-          <tr>
-            <th align="left">Statistics</th>
-            <th align="center">Score</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="left">Total Stars</td>
-            <td align="center">12.3k</td>
-          </tr>
-          <tr>
-            <td align="left">Total Commits</td>
-            <td align="center">21.4k</td>
-          </tr>
-          <tr>
-            <td align="left">Pull Requests</td>
-            <td align="center">360</td>
-          </tr>
-          <tr>
-            <td align="left">PR Reviewed</td>
-            <td align="center">82</td>
-          </tr>
-          <tr>
-            <td align="left">Issues Opened</td>
-            <td align="center">214</td>
-          </tr>
-          <tr>
-            <td align="left">Contribution of the Year</td>
-            <td align="center">140+</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td valign="top" align="center" width="50%">
-      <img src="./assets/miyabi-performance-suite-(Rama-X2).png" alt="Miyabi Performance Suite" width="100%" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+| Statistics | Score |
+| :--- | :---: |
+| Total Stars | 12.3k |
+| Total Commits | 21.4k |
+| Pull Requests | 360 |
+| PR Reviewed | 82 |
+| Issues Opened | 214 |
+| Contribution of the Year | 140+ |
 
 ---
 
