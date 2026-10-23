@@ -52,11 +52,11 @@
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://rama-x2.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-rama--x2.my.id-1e293b?style=flat&logo=vercel&logoColor=white&labelColor=1e293b" alt="Website" /></a>&nbsp;<a href="https://discord.com/users/896784559092428831" target="_blank"><img src="https://img.shields.io/badge/Discord-rama__ext-1e293b?style=flat&logo=discord&logoColor=5865F2&labelColor=1e293b" alt="Discord" /></a>&nbsp;<a href="https://t.me/Rama_X2" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Rama__X2-1e293b?style=flat&logo=telegram&logoColor=2CA5E0&labelColor=1e293b" alt="Telegram" /></a>&nbsp;<a href="https://www.linkedin.com/in/rama-xd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rama--xd-1e293b?style=flat&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/896784559092428831" target="_blank" rel="noreferrer">
     <img src="https://dsc-readme.tsuni.dev/api/user/896784559092428831?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512&effect=gradient&nameColor1=a78bfa&nameColor2=ec4899" alt="rama_ext's Discord status" />
   </a>
