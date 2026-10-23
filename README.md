@@ -40,9 +40,13 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rama-X2&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Rama-X2 GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rama-X2&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-X2&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Rama-X2&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
