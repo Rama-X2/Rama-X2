@@ -40,10 +40,8 @@
 
 ## GitHub Stats
 
-> ⏱️ Waketime (coding hours): `3,800+ hours` (wakatime / local tracking)
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rama-X2&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rama-X2&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Rama-X2 GitHub Streak" />
 </p>
 
 ---
