@@ -40,17 +40,11 @@
 
 ## GitHub Stats
 
-### Account Legacy & Contribution Data
-> Waketime (coding hours): `3,800+ hours` (wakatime / local tracking)
+> ⏱️ Waketime (coding hours): `3,800+ hours` (wakatime / local tracking)
 
-| Statistics | Score |
-| :--- | :---: |
-| Total Stars | 12.3k |
-| Total Commits | 21.4k |
-| Pull Requests | 360 |
-| PR Reviewed | 82 |
-| Issues Opened | 214 |
-| Contribution of the Year | 140+ |
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rama-X2&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
